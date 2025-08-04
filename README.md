@@ -54,7 +54,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shimaa-Saber&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
