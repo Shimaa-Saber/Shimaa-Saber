@@ -60,9 +60,10 @@
 
 
 
-![Shimaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimaa-Saber&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimaa-Saber&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShimaaSaber&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimaaSaber&layout=compact&theme=radical&hide_border=true" height="200"/>
+</div>
 
 
 
