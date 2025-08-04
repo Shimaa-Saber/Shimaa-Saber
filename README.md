@@ -1,10 +1,11 @@
-<h6 align="left">Hi 👋! My name is Shimaa Saber and I'm a Backend .NET Developer</h6>
+<h1 align="left">Hi 👋! My name is Shimaa Saber and I'm a Backend .NET Developer</h1>
 
 <p align="left">Passionate about backend development, clean architecture, and building scalable APIs. I love solving real-world problems using modern technologies and writing clean, maintainable code.</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/ShimaaSaber/ShimaaSaber/main/profile.jpg" alt="Shimaa Saber" style="border-radius: 10px;" />
 
----
+
+
 
 ### 🛠️ Languages and Tools
 
@@ -28,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
 
----
+
 
 ### 📫 Connect with me
 
