@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shimaa Saber and I'm a Backend .NET Developer</h2>
+<h6 align="left">Hi 👋! My name is Shimaa Saber and I'm a Backend .NET Developer</h6>
 
 <p align="left">Passionate about backend development, clean architecture, and building scalable APIs. I love solving real-world problems using modern technologies and writing clean, maintainable code.</p>
 
@@ -50,24 +50,23 @@
   </a>
 </div>
 
----
 
-### 🏆 GitHub Trophies
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shimaa-Saber&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-### 📊 GitHub Stats
+
+
 
 ![Shimaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimaa-Saber&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimaa-Saber&layout=compact&theme=radical&hide_border=true)
 
----
 
-### 🔥 GitHub Contribution Streak
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shimaa-Saber&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
----
+
