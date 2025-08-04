@@ -2,7 +2,7 @@
 
 <p align="left">Passionate about backend development, clean architecture, and building scalable APIs. I love solving real-world problems using modern technologies and writing clean, maintainable code.</p>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ShimaaSaber/ShimaaSaber/main/profile.jpg" alt="Shimaa Saber" style="border-radius: 10px;" />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" alt="Shimaa Saber" style="border-radius: 10px;" />
 
 
 
