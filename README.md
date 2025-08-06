@@ -65,6 +65,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shimaa-Saber&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
